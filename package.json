@@ -6,7 +6,8 @@
   "scripts": {
     "bubble-sort": "node src/sorting/bubble-sort",
     "selection-sort": "node src/sorting/selection-sort",
-    "insertion-sort": "node src/sorting/insertion-sort"
+    "insertion-sort": "node src/sorting/insertion-sort",
+    "radix-sort": "node src/sorting/radix-sort"
   },
   "repository": {
     "type": "git",
