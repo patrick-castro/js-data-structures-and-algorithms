@@ -7,7 +7,8 @@
     "bubble-sort": "node src/sorting/bubble-sort",
     "selection-sort": "node src/sorting/selection-sort",
     "insertion-sort": "node src/sorting/insertion-sort",
-    "radix-sort": "node src/sorting/radix-sort"
+    "radix-sort": "node src/sorting/radix-sort",
+    "merge-sort": "node src/sorting/merge-sort"
   },
   "repository": {
     "type": "git",
